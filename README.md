@@ -1,3 +1,4 @@
+<p align = "center"><a href="#"><img width="80%" img align='center' height="auto" src="https://user-images.githubusercontent.com/79048275/150422464-3a8b8bc9-8ab3-4c22-aa00-85ce0de59e36.gif" height="60px"/></a></p>
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻, App Developer 📱, Graphics Designer 🎨!
 </h2> 
